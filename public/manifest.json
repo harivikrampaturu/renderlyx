@@ -1,0 +1,8 @@
+{
+  "name": "Renderlyx",
+  "short_name": "Renderlyx",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#1c1410"
+}
